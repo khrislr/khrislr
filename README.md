@@ -14,7 +14,7 @@ Highly skilled and experienced web developer with a deep understanding of progra
 - Tools: Git
 
 ## Education
-**Computting Engineering** (Present)
+**Computer Engineering** (Present)
 Universidad Centro-occidental Lisandro Alvarado, Barquisimeto, Lara
 
 ## Certifications
